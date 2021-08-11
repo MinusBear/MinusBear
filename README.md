@@ -2,4 +2,4 @@
 
 #### If you want to contact me, please leave me a message.
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/CC-BY-SA-4.0?style=flat-square&logo=Android&logoColor=white"/>
